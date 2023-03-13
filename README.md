@@ -17,7 +17,7 @@
 <a href="https://github.com/marco-arias-antolin/marco-arias-antolin">
     <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=marco-arias-antolin&theme=dark&repo=marco-arias-antolin">
 </a>
-<br>
+<br><br>
 <p>Credits: [marco-arias-antolin](https://github.com/marco-arias-antolin)</p>
 
 <!--
