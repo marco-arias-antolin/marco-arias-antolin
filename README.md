@@ -1,7 +1,8 @@
 # Hi, I'm Marco Arias Antolín 👋
 
 ## ⚙️ My skills:
-
+Languages: HTML5, CSS3, JavaScript.
+Tools: VS Code, Git, GitHub.
 
 ### Github stats
 <p align="center">
@@ -10,6 +11,9 @@
     <img alt="most used languages" width="666px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marco-arias-antolin&count_private=true&theme=algolia&bg_color=0,000000,130F40&layout=compact&border_radius=8&langs_count=20&hide=hack,swift,kotlin,objective-c"/>
 </p>
 <a href="mailto:marco-arias-antolin@gmail.com-">📫 Marco Antonio Arias Antolín</a>
+
+#### Visitor's count 👀
+<img src="https://profile-counter.glitch.me/{marco-arias-antolin}/count.svg" alt="marco-arias-antolin :: Visitor's Count" />
 
 Credits: [marco-arias-antolin](https://github.com/marco-arias-antolin)
 
