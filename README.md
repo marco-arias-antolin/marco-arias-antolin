@@ -1,8 +1,8 @@
 # Hi, I'm Marco Arias Antolín 👋
 
 ## ⚙️ My skills:
-Languages: HTML5, CSS3, JavaScript.
-Tools: VS Code, Git, GitHub.
+- Languages: HTML5, CSS3, JavaScript.
+- Tools: VS Code, Git, GitHub.
 
 ### Github stats
 <p align="center">
